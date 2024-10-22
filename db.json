@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Enviar relatório",
+      "description": "Enviar o relatório mensal para o departamento financeiro.",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Reunião com a equipe",
+      "description": "Reunião para discutir o progresso do projeto e próximos passos.",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "id": "3",
+      "title": "Atualizar o site",
+      "description": "Fazer atualizações no site da empresa com novas informações.",
+      "status": "done",
+      "priority": "medium"
+    }
+  ]
+}
