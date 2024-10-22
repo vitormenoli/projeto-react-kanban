@@ -1,6 +1,8 @@
-# Kanban Task Management App
+# React Kanban - Task Management App
 
 Este é um aplicativo de gestão de tarefas em formato de quadro Kanban, desenvolvido com **Vite**, **React**, **TypeScript**, **Radix UI** e **Zod**. O app permite a criação, atualização, exclusão e organização de tarefas em diferentes status, com diferentes níveis de prioridade. O backend é simulado utilizando o **json-server**, oferecendo um CRUD completo de tarefas.
+
+![image](https://github.com/user-attachments/assets/1767f3f0-1763-42cb-ab00-b0a78b571b41)
 
 ## Funcionalidades
 
