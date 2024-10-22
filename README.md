@@ -61,7 +61,7 @@ Este é um aplicativo de gestão de tarefas em formato de quadro Kanban, desenvo
 4. Inicie o `json-server` para simular o backend:
 
    ```bash
-   npx json-server --watch db.json --port 3001
+   npm run json-server
    ```
 
 5. Em outra aba do terminal, execute o projeto em modo de desenvolvimento:
@@ -79,7 +79,7 @@ Este é um aplicativo de gestão de tarefas em formato de quadro Kanban, desenvo
 6. Acesse a aplicação no navegador:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Estrutura do Projeto
